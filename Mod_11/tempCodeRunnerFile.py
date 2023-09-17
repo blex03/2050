@@ -1,0 +1,1 @@
+self._nbrsNoWeights[u].remove(v)
